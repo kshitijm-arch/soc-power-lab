@@ -1,6 +1,6 @@
 # SoC Power Lab
 
-An illustrative Python model of processor power and energy across frequency and voltage states. The model uses example assumptions and does not represent vendor measurements.
+An illustrative SoC power modelling project that evaluates processor power and energy across frequency and voltage states. The model uses example assumptions and does not represent vendor measurements.
 
 ## Setup
 
